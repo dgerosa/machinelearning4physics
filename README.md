@@ -1,2 +1,2 @@
 
-Placeholder repository to redirect [https://dgerosa.github.io/astrostatistics](https://dgerosa.github.io/astrostatistics) to the latest version of my class.
+Placeholder repository to redirect [https://dgerosa.github.io/machinelearning4physics](https://dgerosa.github.io/machinelearning4physics) to the latest version of my class.
